@@ -7,5 +7,5 @@ layout: default
 - Although my favorite aspect is when I get to do a board bring up and test the blending of hardware and software functionality. 
 - The challenge of having to test my skills in debugging both hardware and software never ceases to bring that sense of pride and accomplishment I think most engineers strive for.
 
-### IoT Platforms
-[a relative link](iotPlatforms.md)
+### IoT Platforms I think are substantial - Highlights - 6/12/2019
+[IoT Platforms - 6/12/2019](iotPlatforms.md)
