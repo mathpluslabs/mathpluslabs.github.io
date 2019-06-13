@@ -9,3 +9,10 @@ layout: default
 
 ### IoT Platforms I think are substantial - Highlights - 6/12/2019
 [IoT Platforms - 6/12/2019](iotPlatforms.md)
+
+### Discussion Topics for a Later Time, all have the tag, in 2019
+- Problems with IoT Platforms
+- Security
+- Things the Tech Entrepreneurs should know
+- Remote Workers
+- Working with my little brother to help him understand aspects of EE I wish I had learned better going through college
