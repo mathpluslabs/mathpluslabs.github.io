@@ -1,6 +1,6 @@
 github:
   is_project_page: false
-  title: mathpluslabs
+title: mathpluslabs
 description: My Internet of Things and Prototyping Blog
 project_title: mathplusprototypes blog
 theme: jekyll-theme-slate
