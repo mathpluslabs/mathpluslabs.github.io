@@ -2,5 +2,6 @@ title: mathpluslabs
 description: My Internet of Things and Prototyping Blog
 project_title: mathplusprototypes blog
 theme: jekyll-theme-slate
+google_analytics: [UA-142134024-1]
 github:
   is_project_page: false
