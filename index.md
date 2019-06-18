@@ -19,13 +19,3 @@ Email: Curtis at mathpluslabs@gmail.com
 
 ### Substantial IoT Platforms - Highlights - 6/12/2019
 [IoT Platforms - 6/12/2019](/_posts/2019-06-12-iot-platforms.md)
-
-
-### Using for loop to show posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}{{ post.date }}</a>
-    </li>
-  {% endfor %}
-</ul>
