@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amazing IoT Development Platforms"
+title:  "Amazing IoT Development Platforms"
 ---
 
 ### Amazing IoT Development Platforms, just my favorite highlights that are unique, updates soon - 6/12/2019
@@ -40,5 +40,3 @@ title: "Amazing IoT Development Platforms"
 		- Works with most adafruit feather "wings" and code libraries
 
 #### Note that there is lots of information I haven't talked about, these are just the highlights and you can always read the full specs on their websites
-
-[View test image](/_products/louis-reed-747404-unsplash.jpg)
