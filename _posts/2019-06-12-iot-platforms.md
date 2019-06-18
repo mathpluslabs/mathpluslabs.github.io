@@ -3,7 +3,7 @@ layout: default
 title:  "Amazing IoT Development Platforms"
 ---
 
-### {{ post.title }} - {{ page.date | date_to_string }}
+### {{ page.title }} - {{ page.date | date_to_string }}
 #### Just my favorite highlights that are unique, updates soon
 
 - balena.io, formerly resin.io
