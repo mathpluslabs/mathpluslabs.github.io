@@ -19,6 +19,3 @@ Email: Curtis at mathpluslabs@gmail.com
 
 ### Substantial IoT Platforms - Highlights - 6/12/2019
 [IoT Platforms - 6/12/2019](iotPlatforms.md)
-
-### Store Link Testing
-[Store Testing 6/17/2019]({{ site.baseurl }}{% link _includes/product.html %})
