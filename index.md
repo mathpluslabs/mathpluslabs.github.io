@@ -1,9 +1,18 @@
 ---
 layout: default
 ---
-### Questions about your potential embedded system or IoT project, shoot me an email and I'll be glad to provide assistance. 
+### Embedded System Design
+- Questions about your potential embedded system or IoT project, shoot me an email and I'll be glad to provide assistance. 
+- Email: Curtis at mathpluslabs@gmail.com
 
-Email: Curtis at mathpluslabs@gmail.com
+### Blog Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }} {{ page.date | date_to_string }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ### About mathpluslabs
 - mathpluslabs is my current side project to help others produce reliable, secure, and performant embedded devices.
@@ -16,15 +25,3 @@ Email: Curtis at mathpluslabs@gmail.com
 - I love to work in all aspects of embedded design from on-board component selection, PCB design, firmware/OS design, board bring-up, and application development. 
 - Although my favorite aspect is when I get to do a board bring up and test the blending of hardware and software functionality. 
 - The challenge of having to test my skills in debugging both hardware and software never ceases to bring that sense of pride and accomplishment I think most engineers strive for.
-
-### Substantial IoT Platforms - Highlights - 6/12/2019
-[IoT Platforms - 6/12/2019](iot-platforms.md)
-
-### Blog Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
