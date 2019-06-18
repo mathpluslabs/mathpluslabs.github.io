@@ -1,8 +1,3 @@
----
-layout: post
-title:  "Amazing IoT Development Platforms"
----
-
 ### Amazing IoT Development Platforms, just my favorite highlights that are unique, updates soon - 6/12/2019
 - balena.io, formerly resin.io
     - Linux container based OS for numerous hardware platforms called balenaOS
