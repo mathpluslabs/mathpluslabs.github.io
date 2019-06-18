@@ -8,6 +8,13 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
+---
+layout: products
+title: Store
+---
+{% for product in site.products %}
+  {% include product.html %}
+{% endfor %}
   </head>
 
   <body>
