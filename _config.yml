@@ -3,6 +3,3 @@ description: Embedded Systems, Internet of Things and Prototyping Help
 project_title: mathplusprototypes blog
 theme: jekyll-theme-slate
 google_analytics: [UA-142134024-1]
-collections:
-  - posts
-  - products
