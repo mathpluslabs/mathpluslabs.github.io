@@ -44,6 +44,16 @@
       </footer>
     </div>
 
+    <script>
+      ---
+      layout: products
+      title: Store
+      ---
+      {% for product in site.products %}
+        {% include product.html %}
+      {% endfor %}
+    </script>
+
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
