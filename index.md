@@ -18,7 +18,7 @@ Email: Curtis at mathpluslabs@gmail.com
 - The challenge of having to test my skills in debugging both hardware and software never ceases to bring that sense of pride and accomplishment I think most engineers strive for.
 
 ### Substantial IoT Platforms - Highlights - 6/12/2019
-[IoT Platforms - 6/12/2019](_posts/iotPlatforms.md)
+[IoT Platforms - 6/12/2019](/_posts/2019-06-12-iot-platforms.md)
 
 
 ### Using for loop to show posts
