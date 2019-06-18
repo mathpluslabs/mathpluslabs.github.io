@@ -21,4 +21,4 @@ Email: Curtis at mathpluslabs@gmail.com
 [IoT Platforms - 6/12/2019](iotPlatforms.md)
 
 ### Store Link Testing
-[Store Testing 6/17/2019](_products/product.html)
+[Store Testing 6/17/2019](_includes/product.html)
